@@ -1,6 +1,6 @@
 const Workout = require("../models/workout");
 
-router.get("/api/workouts", (req, res) => {
+router.get("/api/workout", (req, res) => {
     Workout.aggregate({
         $addFields: {
             totalDuration: {
