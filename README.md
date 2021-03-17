@@ -28,7 +28,7 @@ This application is a trakcer for all your exercises and workouts. You can creat
 Please follow the following link to the application!
 [Fitness Tracker App](https://protected-earth-20674.herokuapp.com/)
 
-![#](#)
+![Fitness Tracker Screenshot](./public/assets/fitness_tracker.PNG)
 
 
 ## Credits
